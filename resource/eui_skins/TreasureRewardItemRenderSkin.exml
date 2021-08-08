@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="TreasureRewardItemRenderSkin"
+ xmlns:e="http://ns.egret.com/eui" width="100" height="100">
+	<e:Rect fillColor="0x84C9FF" strokeColor="0x6F6F6F" strokeWeight="1" percentWidth="100" percentHeight="100"/>
+	<e:Image id="cloud" source="cloud_jpg"  width="60" height="60" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

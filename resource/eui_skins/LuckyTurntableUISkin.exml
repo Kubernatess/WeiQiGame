@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LuckyTurntableUISkin"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:List id="rewardList" itemRenderer="GridRewardItem"  horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="pointer" source="qimenbagua_bg_img_03_png" anchorOffsetX="27" anchorOffsetY="80" x="321" y="580" rotation="45"/>
+	<e:Button id="getResult" label="Button" y="908" horizontalCenter="150" touchEnabled="false"/>
+	<e:Button id="rotateBtn" label="Button" y="908" horizontalCenter="-150"/>
+</e:Skin>

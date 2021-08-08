@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CustomLayoutDemoSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="174a0d370af" ></w:Config>
+	<e:Image source="bg_jpg" horizontalCenter="0" top="0"/>
+    <e:Scroller horizontalCenter="0" top="0" >
+	    <e:List id="list" horizontalCenter="0"  itemRenderer="mountainClimbItemRenderer" height="1136" width="230"/>
+    </e:Scroller>
+</e:Skin>

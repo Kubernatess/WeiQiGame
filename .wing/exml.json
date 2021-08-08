@@ -1,0 +1,19 @@
+{
+  "174a0d370af": {
+    "path": "CustomLayoutDemo.ts",
+    "class": "CustomLayoutDemo",
+    "parentPath": "",
+    "backgroundType": "null",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": false,
+    "useBgColor": false,
+    "backgroundAlpha": 100
+  },
+  "design": {
+    "height": "300",
+    "width": "400"
+  }
+}

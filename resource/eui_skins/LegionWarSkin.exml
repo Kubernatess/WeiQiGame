@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LegionWarSkin" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="bg_jpg" horizontalCenter="0" top="0"/>
+    <e:Group id="grp" horizontalCenter="0" verticalCenter="0" touchChildren="false" touchEnabled="false">
+        <e:layout>			
+			<e:TileLayout requestedRowCount="9" requestedColumnCount="6" horizontalGap="0" verticalGap="0"/>
+		</e:layout>
+    </e:Group>
+	<e:List id="gridList" horizontalCenter="0" verticalCenter="0" itemRenderer="LegionWarItem">		
+        <e:layout>			
+			<e:TileLayout requestedRowCount="10" requestedColumnCount="7" horizontalGap="20" verticalGap="56"/>
+		</e:layout>
+	</e:List>
+</e:Skin>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="TreasureHuntSkin" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="bg_jpg" horizontalCenter="0" top="0"/>
+	<e:Group horizontalCenter="0" verticalCenter="0" width="500" height="600">
+		<e:List id="gridList" itemRenderer="TreasureRewardItemRender">		
+			<e:layout>			
+			<e:TileLayout requestedRowCount="6" requestedColumnCount="5" horizontalGap="0" verticalGap="0"/>
+			</e:layout>
+		</e:List>
+		<e:Image id="hero" source="heros04_png" anchorOffsetX="32" anchorOffsetY="35.5" />
+	</e:Group>
+</e:Skin>
